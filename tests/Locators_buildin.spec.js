@@ -7,7 +7,7 @@
 // page.getByTitle() to locate an element by its title attribute
 // page.getByTestId() to locate an element based on its data-testid attribute (other attributes can be )
 
-const { test, expect } = require("@playwright/test");
+import { test, expect } from "@playwright/test";
 
 test("Build-in Locator", async ({ page }) => {
   await page.goto(

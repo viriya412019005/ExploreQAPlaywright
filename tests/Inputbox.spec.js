@@ -1,4 +1,4 @@
-const { test, expect } = require("@playwright/test");
+import { test, expect } from "@playwright/test";
 
 test("handle inputbox", async ({ page }) => {
   page.goto("https://itpmodev.indomaret.co.id/pmowebws/login.xhtml");

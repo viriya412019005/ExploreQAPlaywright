@@ -1,4 +1,4 @@
-const { test, expect } = require("@playwright/test");
+import { test, expect } from "@playwright/test";
 
 test("test1@sanity", async ({ page }) => {
   console.log("test1");

@@ -1,4 +1,4 @@
-const { test, expect } = require("@playwright/test");
+import { test, expect } from "@playwright/test";
 
 // // Only (Hanya menjalakan test yang ditandai dengan deskripsi only)
 // test.only("test1", async ({ page }) => {

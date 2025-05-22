@@ -1,4 +1,4 @@
-const { test, expect } = require("@playwright/test");
+import { test, expect } from "@playwright/test";
 
 test("MouseHover", async ({ page }) => {
   await page.goto("https://demo.opencart.com/");
