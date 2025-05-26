@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8955","Test Reporter 3","chromium","Mon May 26 13:32:16 WIB 2025","passed","Mon May 26 13:32:25 WIB 2025","","Reporters.spec.js","",""
+"","1238","Test Reporter 2","chromium","Mon May 26 13:32:15 WIB 2025","passed","Mon May 26 13:32:16 WIB 2025","","Reporters.spec.js","",""
+"","14115","Test Reporter","chromium","Mon May 26 13:32:01 WIB 2025","passed","Mon May 26 13:32:15 WIB 2025","","Reporters.spec.js","",""
